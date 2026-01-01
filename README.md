@@ -33,10 +33,6 @@ I build tools and automation for enterprise IT operations, with a focus on Windo
 
 **Security**: SentinelOne, Fortinet, Active Directory, SSO (Authentik)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azullus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ## 🎯 Current Focus
 
 - 🔧 Building enterprise automation tools with PowerShell and C#

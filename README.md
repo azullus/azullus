@@ -7,27 +7,30 @@ I build tools and automation for enterprise IT operations, with a focus on Windo
 ## 🚀 Featured Projects
 
 ### Enterprise IT Operations
-- **[cosmicbytez-ops-toolkit](https://github.com/azullus/cosmicbytez-ops-toolkit)** - PowerShell automation suite for Windows/Dell/Docker management with 90+ HOWTO runbooks
-- **[CosmicPing](https://github.com/azullus/CosmicPing)** - Modern C#.NET network diagnostic utility with live charting and memory-safe architecture
+- **[cosmicbytez-ops-toolkit](https://github.com/azullus/cosmicbytez-ops-toolkit)** - PowerShell automation suite for Windows/Dell/Docker management with 161 HOWTO runbooks
+- **[CosmicPing](https://github.com/azullus/CosmicPing)** - Modern .NET 8 network diagnostic utility with real-time charting and memory-safe architecture
+- **[WifiSurvey](https://github.com/azullus/WifiSurvey)** - Professional WiFi site survey tool with signal strength heatmaps and coverage analysis
 
 ### Web Applications
-- **[fitness-tracker](https://github.com/azullus/fitness-tracker)** - Production-ready PWA for tracking workouts, nutrition, and weight with offline support
-- **[bc-docker-manager](https://github.com/azullus/bc-docker-manager)** - Electron desktop app for managing Business Central Docker containers
-- **[budget-tracker](https://github.com/azullus/budget-tracker)** - Personal finance tracking PWA with category-based budgeting
+- **[azu-fitness-tracker](https://github.com/azullus/azu-fitness-tracker)** - Next.js 15 PWA for tracking workouts, nutrition, and weight with offline support
+- **[dms-bc-docker-manager](https://github.com/azullus/dms-bc-docker-manager)** - Electron desktop app for managing Business Central Docker containers with AI troubleshooting
+- **[azu-budget-tracker](https://github.com/azullus/azu-budget-tracker)** - Next.js 15 PWA for personal finance tracking with category-based budgeting
+
+### Experimental Projects
+- **[ai-projects-workspace](https://github.com/azullus/ai-projects-workspace)** - Monorepo with 9 experimental projects (PWAs, trading bots, newsletters, IPTV manager)
 
 ### Infrastructure as Code
-- **[docker-infrastructure](https://github.com/azullus/docker-infrastructure)** - Self-hosted Docker Compose stacks (Traefik, Authentik, *arr suite, monitoring)
-- **[cosmicbytez-homelab](https://github.com/azullus/cosmicbytez-homelab)** - Home lab documentation, security research, and automation projects
+- **[azu-docker-db](https://github.com/azullus/azu-docker-db)** - Self-hosted Docker Compose stacks (Traefik, Authentik SSO, *arr suite, monitoring)
 
 ## 🛠️ Tech Stack
 
 **Languages**: PowerShell, C#, TypeScript, JavaScript, Python, Bash
 
-**Frameworks**: .NET 8, Next.js 14, React, Electron
+**Frameworks**: .NET 8, Next.js 15, React, Electron
 
 **Infrastructure**: Docker, Docker Compose, Traefik, Linux, Windows Server
 
-**DevOps**: GitHub Actions, CI/CD, Automated Testing (Pester, Jest, Playwright)
+**DevOps**: GitHub Actions, CI/CD, Automated Testing (Pester, Jest, Playwright, xUnit)
 
 **Databases**: SQLite, Supabase, PostgreSQL
 

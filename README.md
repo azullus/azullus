@@ -1,7 +1,4 @@
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=azullus&style=flat-square&color=58A6FF)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Systems+Administrator;DevOps+%26+Infrastructure+Engineer;Security+Researcher;Open+Source+Builder)](https://github.com/azullus)
 
 **Building tools and automation for enterprise IT, self-hosted infrastructure, and the modern web.**
@@ -62,11 +59,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azullus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=azullus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=azullus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

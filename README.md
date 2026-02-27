@@ -1,5 +1,7 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Systems+Administrator;DevOps+%26+Infrastructure+Engineer;Security+Researcher;Open+Source+Builder)](https://github.com/azullus)
+# Hi, I'm @azullus
+
+**IT Systems Administrator | DevOps & Infrastructure Engineer | Security Researcher**
 
 **Building tools and automation for enterprise IT, self-hosted infrastructure, and the modern web.**
 

@@ -1,9 +1,10 @@
 <div align="center">
+
 # Hi, I'm azullus
 
-**IT Systems Administrator | DevOps & Infrastructure Engineer | Security Researcher**
+### IT Systems Administrator | DevOps & Infrastructure Engineer | Security Researcher
 
-**Building tools and automation for enterprise IT, self-hosted infrastructure, and the modern web.**
+Building tools and automation for enterprise IT, self-hosted infrastructure, and the modern web.
 
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm @azullus
+# Hi, I'm azullus
 
 **IT Systems Administrator | DevOps & Infrastructure Engineer | Security Researcher**
 

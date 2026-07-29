@@ -35,31 +35,28 @@ Building security-first tools and automation for enterprise IT, self-hosted infr
 
 ---
 
-## Featured Projects
-
-### Enterprise IT & Automation
+## Open Source
 
 | Project | Description |
 |---------|-------------|
-| [**cosmicbytez-ops-toolkit**](https://github.com/CosmicBytez/cosmicbytez-ops-toolkit) | PowerShell automation suite for Windows infrastructure — 84 scripts, 312 HOWTO runbooks, Dell/Docker/BitLocker management |
-| [**CosmicPing**](https://github.com/azullus/CosmicPing) | .NET 8 network diagnostic tool with real-time latency charting, packet loss tracking, and CSV export |
-| [**WifiSurvey**](https://github.com/azullus/WifiSurvey) | Professional WiFi site survey tool with signal strength heatmaps and coverage analysis (.NET 8) |
+| [**bc-docker-manager**](https://github.com/CosmicBytez/bc-docker-manager) | Electron 41 + Next.js 16 desktop app for Dynamics 365 Business Central Docker containers with Claude AI troubleshooting |
+| [**CosmicPing**](https://github.com/CosmicBytez/CosmicPing) | .NET 8 network diagnostic tool with real-time latency charting, packet loss tracking, and CSV export |
+| [**WifiSurvey**](https://github.com/CosmicBytez/WifiSurvey) | Professional WiFi site survey tool with signal strength heatmaps and coverage analysis (.NET 8) |
 
-### Web Applications
-
-| Project | Description |
-|---------|-------------|
-| [**azu-fitness-tracker**](https://github.com/CosmicBytez/azu-fitness-tracker) | Next.js 15 PWA for household fitness — workouts, nutrition, meal planning, pantry inventory, Supabase backend |
-| [**azu-subscription-tracker**](https://github.com/CosmicBytez/azu-subscription-tracker) | Next.js 14 PWA for tracking subscriptions and utility bills with offline-first architecture |
-| [**cosmicbytez-labs**](https://github.com/CosmicBytez/cosmicbytez-labs) | Next.js 16 tech blog — IT & cybersecurity news, HOWTOs, and project guides at [labs.cosmicbytez.ca](https://labs.cosmicbytez.ca) |
-| [**azu-iptv-manager**](https://github.com/CosmicBytez/azu-iptv-manager) | Next.js 15 IPTV stream manager with HDHomeRun device emulation for Plex DVR |
-
-### Infrastructure & Desktop
+## Publishing
 
 | Project | Description |
 |---------|-------------|
-| [**azu-docker-db**](https://github.com/CosmicBytez/azu-docker-db) | Docker Compose IaC — Traefik, Authentik SSO, Prometheus/Grafana monitoring, 48 services |
-| [**bc-docker-manager**](https://github.com/CosmicBytez/bc-docker-manager) | Electron 35 + Next.js 16 desktop app for Business Central Docker containers with Claude AI troubleshooting |
+| [**CosmicBytez Labs**](https://labs.cosmicbytez.ca) | Next.js 16 tech blog — IT & cybersecurity news, HOWTOs, and project guides |
+
+## Behind the Scenes
+
+Private work that keeps the lights on:
+
+- **cosmicbytez-ops-toolkit** — PowerShell automation suite for Windows infrastructure: 84 scripts and 312 HOWTO runbooks covering Dell hardware, Docker, and BitLocker management
+- **Self-hosted platform** — Docker Compose IaC running 70+ containers: Traefik, Authentik SSO, Prometheus/Grafana/Loki monitoring, Wazuh SIEM, and n8n automation
+- **Household PWAs** — Next.js apps for fitness tracking and personal finance (Pulsar), self-hosted on the same platform
+- **Trading automation** — multi-asset trading bot for Canadian markets (Python, asyncio)
 
 ---
 

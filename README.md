@@ -64,11 +64,11 @@ Private work that keeps the lights on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=azullus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended-ecru-seven.vercel.app/api?username=azullus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=azullus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended-ecru-seven.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

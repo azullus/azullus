@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dylan
+# Hi, I'm azullus
 
 ### Founder of [CosmicBytez](https://github.com/CosmicBytez)
 

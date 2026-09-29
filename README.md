@@ -54,7 +54,7 @@ Building security-first tools and automation for enterprise IT, self-hosted infr
 Private work that keeps the lights on:
 
 - **cosmicbytez-ops-toolkit** — PowerShell automation suite for Windows infrastructure: 84 scripts and 312 HOWTO runbooks covering Dell hardware, Docker, and BitLocker management
-- **Self-hosted platform** — Docker Compose IaC running 70+ containers: Traefik, Authentik SSO, Prometheus/Grafana/Loki monitoring, Wazuh SIEM, and n8n automation
+- **Self-hosted platform** — Docker Compose IaC running 80+ containers: Traefik, Authentik SSO, Prometheus/Grafana/Loki + Zabbix monitoring, Wazuh SIEM, CrowdSec, and n8n automation
 - **Household PWAs** — Next.js apps for fitness tracking and personal finance (Pulsar), self-hosted on the same platform
 - **Trading automation** — multi-asset trading bot for Canadian markets (Python, asyncio)
 

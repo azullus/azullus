@@ -68,7 +68,7 @@ Private work that keeps the lights on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=azullus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-stats-extended-ecru-seven.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended-ecru-seven.vercel.app/api/top-langs/?username=azullus&layout=compact&theme=tokyonight&hide_border=true&role=OWNER,ORGANIZATION_MEMBER)
 
 </div>
 
